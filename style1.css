@@ -1,0 +1,42 @@
+.container{
+    width:100%;
+    height:100%;
+    background-color:cadetblue;
+}
+.header{
+    width:100%;
+    height:15%;
+    background-color:lightcoral;
+}
+.header h1{
+    text-align: center;
+    padding:25px;
+    font-size:50px;
+}
+li{
+    list-style-type: none;
+    float:left;
+    padding:25px;
+}
+a{
+    text-decoration: none;
+    color:black;
+    font-size: 25px;
+}
+a:hover{
+    text-decoration:underline;
+}
+#menubar{
+    width:100%;
+    height:10%;
+    background-color:aqua;
+}
+.maincontent{
+    width:100%;
+    height:60%;
+}
+.footer{
+    width:100%;
+    height:15%;
+    background-color:lightcoral;
+}
